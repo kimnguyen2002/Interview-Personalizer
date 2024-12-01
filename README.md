@@ -23,7 +23,7 @@ Check out the live Streamlit App [here](https://interviewpersonalizer.streamlit.
 1. Clone the repository:
 ```bash
 git clone https://github.com/kimnguyen2002/Interview-Personalizer.git
-cd Personalized-Interview-Test-Generator
+cd Interview-Personalizer
 ```
 2. Install required dependencies:
 ```bash
@@ -35,7 +35,7 @@ streamlit run app.py
 ```
 ## 📂 Project Structure
 ```
-Personalized-Interview-Test-Generator/
+Interview-Personalizer/
 ├── app.py                     # Main Streamlit app file
 ├── requirements.txt           # Required Python packages
 ├── Software Questions.csv     # Dataset containing interview questions
