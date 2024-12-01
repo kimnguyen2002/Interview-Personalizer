@@ -99,7 +99,7 @@ st.write("""
 For more projects and insights, please visit my [portfolio](https://kimnguyen2002.github.io/Portfolio/).
 
 ### Code Repository
-You can find the complete code for this application in my GitHub repository [here](https://github.com/kimnguyen2002/).
+You can find the complete code for this application in my GitHub repository [here](https://github.com/kimnguyen2002/Interview-Personalizer).
 """)
 st.sidebar.markdown("""
  ### Why use this tool?
