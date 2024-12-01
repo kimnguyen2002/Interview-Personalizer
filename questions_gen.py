@@ -107,5 +107,5 @@ st.sidebar.markdown("""
 - **Balanced and fair**: Helps candidates showcase their strengths while avoiding irrelevant or biased questions.
 
 ### Please note:
-This tool is more well-suited for **software engineer** roles because it is based on the Software Questions dataset. But it could be well used for other technical roles.                   
+This tool is more well-suited for **software engineer** roles because it is based on the [Software Questions dataset](https://www.kaggle.com/datasets/syedmharis/software-engineering-interview-questions-dataset). But it could be well used for other technical roles.                   
 """)
