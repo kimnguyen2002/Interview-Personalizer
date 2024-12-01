@@ -36,7 +36,7 @@ streamlit run app.py
 ## 📂 Project Structure
 ```
 Interview-Personalizer/
-├── app.py                     # Main Streamlit app file
+├── questions_gen.py                     # Main Streamlit app file
 ├── requirements.txt           # Required Python packages
 ├── Software Questions.csv     # Dataset containing interview questions
 └── README.md                  # Project documentation 
