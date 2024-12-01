@@ -22,7 +22,7 @@ Check out the live Streamlit App [here](https://interviewpersonalizer.streamlit.
 ## 🖥️ Installation and Setup
 1. Clone the repository:
 ```bash
-git clone [https://github.com/kimnguyen2002/Interview-Personalizer](https://github.com/kimnguyen2002/Interview-Personalizer).git
+git clone https://github.com/kimnguyen2002/Interview-Personalizer.git
 cd Personalized-Interview-Test-Generator
 ```
 2. Install required dependencies:
