@@ -43,7 +43,7 @@ Interview-Personalizer/
 ```
 
 ## 📊 Dataset Information
-The app uses a dataset, **Software Questions.csv**, that contains:
+The app uses a dataset, **[Software Questions.csv]**(https://www.kaggle.com/datasets/syedmharis/software-engineering-interview-questions-dataset), that contains:
 - **Question:** The text of the interview question.
 - **Category:** The category/topic of the question (e.g., algorithms, databases).
 - **Difficulty:** A difficulty rating (e.g., easy, medium, hard).
